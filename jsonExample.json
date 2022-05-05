@@ -1,0 +1,9 @@
+{
+    "name":"LeeNamkyung",
+    "age":26,
+    "Car":[
+        {"Type":"SUV", "Number":"11가1111"},
+        {"Type":"SUV", "Number":"11가2222"},
+        {"Type":"SUV", "Number":"11가3333"}
+    ]
+}
